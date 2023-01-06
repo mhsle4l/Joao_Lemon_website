@@ -10,6 +10,6 @@
 
 #### Step 3 - Use the extension Live Server and click in Go Live
 
-#### Step $ - That's it.
+#### Step 4 - That's it.
 
 Thanks everyone
